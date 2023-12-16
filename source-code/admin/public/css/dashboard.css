@@ -1,0 +1,41 @@
+
+
+ .dashboard-content{
+  padding: 50px;
+ }
+  .info-box{
+    border: 1px solid lightgray;
+    padding: 29px 20px 0px 0px;
+  }
+  .info-box a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #198754;
+  }
+ .info-icon{
+    text-align: right;
+    font-size: 70px;
+    color: #198754;
+    position: relative;
+    bottom: 19px;
+  }
+  .support, .intro{
+    padding: 20px;
+  }
+
+
+  @media only screen and (max-width: 600px) {
+
+   .intro{
+    text-align: center;
+   }
+   .info-box{
+    text-align: center;
+   }
+   .info-icon{
+    text-align: center;
+   }
+   .support, .intro {
+    padding: 20px 10px 20px 20px;
+   }
+  }

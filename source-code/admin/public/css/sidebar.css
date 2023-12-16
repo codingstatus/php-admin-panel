@@ -1,0 +1,62 @@
+ul.collapsible li.toggle > a::after {
+    content: "▶";
+    position: absolute;
+    right: 20px;
+  }
+
+  ul.collapsible li.toggle > a.active::after {
+    content: "▼";
+  }
+
+  ul.collapsible li.toggle {
+    position: relative;
+   
+  }
+  ul.collapsible  li.toggle ul {
+    display: none;
+   
+  }
+  .left-sidebar{
+      height: 100vh;
+      padding: 5px 20px 20px 20px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      position: fixed;
+      width: 24.5%;
+      left: 0px;
+      top:0px;
+      bottom: 0px;
+  }
+  .left-sidebar h3{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+    padding: 20px 0px;
+    color: white;
+  }
+  .sidebar-col{
+    padding-right: 0px;
+  }
+  .dashboard-col{
+    padding-left: 0px;
+  }
+  .toggle-list{
+      position: relative;
+      left: 22px;
+  }
+  .left-sidebar .nav-link{
+      color: white;
+     
+  }
+  
+  
+
+  @media only screen and (max-width: 600px) {
+ 
+    .left-sidebar {
+        width: 75.5%;
+        z-index: 99;
+        display: none;
+  }
+}
