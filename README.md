@@ -7,7 +7,8 @@ This is a basic admin panel created in PHP, intended to provide a foundational c
 - **Languages**: PHP 8.x, MySQL 8.x, HTML, CSS, JavaScript, jQuery Ajax & Bootrap 5.x
 - **Compatible Browsers:** IE8, IE9, IE10, IE11, Firefox, Safari, Opera, Chrome, Edge
 
-# Manual Installation
+# Integration
+You can integrate PHP Admin Panel by doing the following Steps
 - **Step-1**: Download/clone from the GitHub
 - **Step-2**: Extract the Zip file and put it into your website
 - **Step-3**: Import the php-admin-panel.sql database into the PhpMyAdmin
