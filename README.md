@@ -1,5 +1,11 @@
 # PHP Admin Panel
+A PHP admin panel is a web-based interface designed for managing and controlling various aspects of a website or web application. It serves as a centralized hub for administrators to perform tasks such as user management, content editing, system configuration, and other administrative functions. Typically, PHP admin panels are used to streamline and simplify the process of maintaining and updating a website, allowing administrators to make changes without direct access to the underlying code. These panels often provide a user-friendly dashboard, intuitive navigation, and customizable settings, making it easier for administrators to monitor and manage their online platforms efficiently.
+
 This is a basic admin panel created in PHP, intended to provide a foundational configuration for web development. The purpose of this admin panel is to serve as a starting point for setting up the administrative aspect of your project. Once you understand it, you can enhance and expand its features and functionality to align with your project's specific requirements.
+
+
+**Languages**: PHP 8.x, MySQL 8.x, HTML, CSS, JavaScript, jQuery Ajax & Bootrap 5.x
+**Compatible Browsers:** IE8, IE9, IE10, IE11, Firefox, Safari, Opera, Chrome, Edge
 
 # Manual Installation
 - **Step-1**: Download/clone from the GitHub
