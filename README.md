@@ -6,7 +6,7 @@ Hello John, This is a basic admin panel created in PHP, intended to provide a fo
 - **Step-2**: Extract the Zip file and put it into your website
 - **Step-3**: Import the php-admin-panel.sql database into the PhpMyAdmin
 - **Step-4**: Update the database.php file with your database credential to connect the PHP Admin Panel to the MySQL Database
-- **Step-5**: Open the PHP Admin Panel with your base URL like http://localhost/php-admin-panel-master/source-code/admin/
+- **Step-5**: Open the PHP Admin Panel with your base URL like ```http://localhost/php-admin-panel-master/source-code/admin/```
 - **Step-6**: Login PHP Admin Panel with the following existing credentials.
 ```
 email: admin@gmail.com
