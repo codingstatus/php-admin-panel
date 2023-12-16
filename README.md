@@ -12,4 +12,6 @@ Hello John, This is a basic admin panel created in PHP, intended to provide a fo
 email: admin@gmail.com
 password: admin
 ```
+### Support
+We are not providing any free support. If you want to get implementation help, modify, enhance & customize the functionality of the PHP ADMIN Panel then you can contact us at codingstatus@gmail.com for Paid service.
 
